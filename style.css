@@ -855,6 +855,12 @@ html {
     color:#fff;
     font-size: medium;
 }
+@media only screen and (max-width:424px) {
+    .Hobbies{
+        text-align: center;
+        padding-top: 30px;
+    }
+}
 /*--------------------sec-1 Start-----------------*/
 
 .sec-1{
