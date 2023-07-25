@@ -825,6 +825,36 @@ html {
         width: 80%;
     }
 }
+.disign_skill{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: space-around;
+}
+.Hobbies{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: space-around;
+}
+.text-yellow{
+    color: #00aeff!important;
+}
+.pogres_text h4{
+    margin:0px;
+    color:#fff;
+    display: inline-block;
+    line-height: 1.8;
+    padding-left: 20px;
+}
+.pogres_text i{
+    color:#fff;
+    font-size: medium;
+}
 /*--------------------sec-1 Start-----------------*/
 
 .sec-1{
