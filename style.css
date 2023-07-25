@@ -976,11 +976,13 @@ ul{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    padding-bottom: 30px;
     align-items: flex-start;
     align-content: space-around;
 }
 .Hobbies{
     text-align: center;
+    padding-top: 30px;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
