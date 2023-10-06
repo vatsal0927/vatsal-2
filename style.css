@@ -573,6 +573,7 @@ html {
 .home_image img {
     /* width: 100%; */
     width: 400px;
+	    margin-top: 50px;
     height: 515px;
     border-radius: 10px;
     object-fit: cover;
